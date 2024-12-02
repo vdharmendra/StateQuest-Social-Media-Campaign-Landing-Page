@@ -32,7 +32,7 @@
 <br>
 <span>Desktop Desgin</span> , <span>Tablet Desgin </span> & <span> Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
-<img src="./desktop-design.gif" width="3575px"/>
+<img src="./desktop-design.gif" width="375px"/>
 </a>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
 <img src="./tablet-design.gif" width="245px"/>
