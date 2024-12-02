@@ -49,6 +49,10 @@
 </a>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
 <img src="./mboile-ui-ux-layout.png" width="275px"/>
+</a><br />
+<span>Cover</span><br/>
+<a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
+<img src="./cover.png" width="575px"/>
 </a>
  <br />
 <span>Desktop Desgin </span> , <span>Tablet Design</span> & <span> Mobile Desgin</span><br/>
@@ -60,8 +64,4 @@
 </a>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
 <img src="./mboile-design.png" width="205px"/>
-</a>
-<span>Cover</span><br/>
-<a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
-<img src="./cover.png" width="575px"/>
 </a>
