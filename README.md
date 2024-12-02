@@ -57,10 +57,10 @@
  <br />
 <span>Desktop Desgin </span> , <span>Tablet Design</span> & <span> Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
-<img src="./desktop-design.png" width="375px"/>
+<img src="./desktop-design.png" width="345px"/>
 </a>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
-<img src="./tablet-design.png" width="275px"/>
+<img src="./tablet-design.png" width="245px"/>
 </a>
 <a href="https://www.behance.net/gallery/213864383/StateQuest-Landing-Page" target="_blank" >
 <img src="./mboile-design.png" width="205px"/>
